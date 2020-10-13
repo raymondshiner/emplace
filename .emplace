@@ -4,4 +4,9 @@ source: Yay(()),
 name: "tilix",
 flags: [],
 ),
+(
+source: Yay(()),
+name: "visual-studio-code-bin",
+flags: [],
+),
 ])
