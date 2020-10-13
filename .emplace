@@ -1,6 +1,11 @@
 ([
 (
 source: Yay(()),
+name: "postman-bin",
+flags: [],
+),
+(
+source: Yay(()),
 name: "tilix",
 flags: [],
 ),
