@@ -11,6 +11,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "teams",
+flags: [],
+),
+(
+source: Yay(()),
 name: "tilix",
 flags: [],
 ),
