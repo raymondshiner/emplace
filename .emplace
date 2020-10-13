@@ -21,6 +21,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "spotify",
+flags: [],
+),
+(
+source: Yay(()),
 name: "teams",
 flags: [],
 ),
@@ -32,6 +37,11 @@ flags: [],
 (
 source: Yay(()),
 name: "visual-studio-code-bin",
+flags: [],
+),
+(
+source: Yay(()),
+name: "wget",
 flags: [],
 ),
 ])
