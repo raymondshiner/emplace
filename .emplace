@@ -1,6 +1,11 @@
 ([
 (
 source: Yay(()),
+name: "curl",
+flags: [],
+),
+(
+source: Yay(()),
 name: "google-chrome-dev",
 flags: [],
 ),
