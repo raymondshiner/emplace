@@ -1,1 +1,7 @@
-([])
+([
+(
+source: Yay(()),
+name: "tilix",
+flags: [],
+),
+])
