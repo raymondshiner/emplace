@@ -6,6 +6,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "discord-canary",
+flags: [],
+),
+(
+source: Yay(()),
 name: "firefox",
 flags: [],
 ),
