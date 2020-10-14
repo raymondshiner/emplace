@@ -26,6 +26,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "nvm",
+flags: [],
+),
+(
+source: Yay(()),
 name: "postman-bin",
 flags: [],
 ),
