@@ -16,6 +16,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "gpg",
+flags: [],
+),
+(
+source: Yay(()),
 name: "postman-bin",
 flags: [],
 ),
