@@ -6,6 +6,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "firefox",
+flags: [],
+),
+(
+source: Yay(()),
 name: "git",
 flags: [],
 ),
