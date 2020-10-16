@@ -41,11 +41,6 @@ flags: [],
 ),
 (
 source: Yay(()),
-name: "spotify",
-flags: [],
-),
-(
-source: Yay(()),
 name: "spotify-dev",
 flags: [],
 ),
