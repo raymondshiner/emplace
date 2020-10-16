@@ -26,6 +26,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "neovim-nightly",
+flags: [],
+),
+(
+source: Yay(()),
 name: "nvm",
 flags: [],
 ),
