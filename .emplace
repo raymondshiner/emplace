@@ -1,5 +1,10 @@
 ([
 (
+source: Npm(()),
+name: "@azure/msal-browser",
+flags: [],
+),
+(
 source: Yay(()),
 name: "curl",
 flags: [],
