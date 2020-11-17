@@ -46,6 +46,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "scala",
+flags: [],
+),
+(
+source: Yay(()),
 name: "spotify-dev",
 flags: [],
 ),
