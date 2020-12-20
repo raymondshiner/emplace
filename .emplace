@@ -16,6 +16,11 @@ flags: [],
 ),
 (
 source: Yay(()),
+name: "firebase-tools",
+flags: [],
+),
+(
+source: Yay(()),
 name: "firefox",
 flags: [],
 ),
